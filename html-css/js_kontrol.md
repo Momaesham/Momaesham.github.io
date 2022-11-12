@@ -1,6 +1,6 @@
 # Контрольная работа
 
-#https://momaesham.github.io/html-css/js_kontrol
+# https://momaesham.github.io/html-css/js_kontrol
 
 > Запрещено искать ответы и решение в интернете.
 > 
