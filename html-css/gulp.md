@@ -44,7 +44,7 @@
 Там, все файлы должны начинаться с ```_```. Например: ```_doctors.html```.
 
 Для подлкючения этого модуля на вашу страничку, подключаете в файле ```index.html``` с помощью команды 
-> {% include "\_html/\_base/\_includes/\_doctors.html" %}
+> {% INCLUDE "\_html/\_base/\_includes/\_doctors.html" %}
 
 ## Для работы с SCSS
 
