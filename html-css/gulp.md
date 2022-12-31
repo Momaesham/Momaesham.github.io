@@ -45,7 +45,7 @@
 
 Для подлкючения этого модуля на вашу страничку, подключаете в файле ```index.html``` с помощью команды 
 
-```_html/_base/_includes/_doctors.html```
+{% include```_html/_base/_includes/_doctors.html``` %}
 
 ## Для работы с SCSS
 
