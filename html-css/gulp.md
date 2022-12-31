@@ -16,6 +16,7 @@
 # Практика
 
 Ссылка на [figma](https://www.figma.com/file/zujRsp3rGLVZBHP8ncOWGN/MEDDICAL---Hospital-website-template-(Community)-(Copy)?t=P1IxDnrUhHqpZfud-0)
+> Нужно выполнить страницу Home и сделать ей адаптивную вёрстку. Делать компонентами те блоки, которые переиспользуются на других страницах. 
 
 Для начала требуется установить gitbush. [Click for download](https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/Git-2.39.0.2-64-bit.exe)
 
