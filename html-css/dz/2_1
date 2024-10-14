@@ -1,0 +1,59 @@
+# Практика
+
+Снизу приведены HTML и CSS код. Ваша задача дополнить CSS таким образом, чтобы получилось примерно, как на картинке.
+![img](./img/chrome_Cblxa37zfG.png)
+
+Дан html
+
+Структуру `html` кода менять нельзя.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="red"></div>
+    <div class="main">
+        <div class="brown">word</div>
+        <div class="brown">word</div>
+        <div class="brown">word</div>
+    </div>
+    <div class="main">
+        <div class="blue">word</div>
+        <div class="blue">word</div>
+        <div class="blue">word</div>
+    </div>
+</body>
+</html>
+```
+
+Дан css
+
+Разрешается только дописывать свойства и значения. Новые селекторы дописывать не надо.
+
+```css
+div{
+    
+}
+
+.red{
+    
+}
+
+.main{
+    
+}
+
+.main .brown{
+    
+}
+
+.main .blue{
+    
+}
+```
