@@ -13,5 +13,5 @@
 | [Task 5: flex-box](https://momaesham.github.io/html-css/dz/5) | ❌ |  ❌ | ✅ | ❌ | ✅ |
 | [Task 6: selectors, position](https://momaesham.github.io/html-css/dz/6) | ❌ |  ✅ | ❌ | ❌ | ✅ |
 | [Task 7: forms](https://momaesham.github.io/html-css/dz/7) | ❌ |  ✅ | ❌ | ❌ | ✅ |
-| [Task 8: grid](https://momaesham.github.io/html-css/dz/8) | ❌ |  ❌ | ❌ | ❌ | ❌ |
-| [Task 9: adaptive](https://momaesham.github.io/html-css/dz/9) | ❌ |  ❌ | ❌ | ❌ | ❌ |
+| [Task 8: grid](https://momaesham.github.io/html-css/dz/8) | ❌ |  ❌ | ❌ | ❌ | ✅ |
+| [Task 9: adaptive](https://momaesham.github.io/html-css/dz/9) | ❌ |  ❌ | ❌ | ❌ | ✅ |
